@@ -13,8 +13,8 @@ const righturl = (window.location.href);
             console.log("Starting")} else {alert("TEST SUCCESSFUL")
             console.log("Wrong Site")};
         if (righturl){
-            if (confirm('ᴉɟᴉM ǝlqɐsᴉp o┴ ʇuɐM no⅄ ǝɹnS no⅄ ǝɹ∀')){
-            //Wifi Disabling Code
+            if (confirm('#### ǝlqɐsᴉp o┴ ʇuɐM no⅄ ǝɹnS no⅄ ǝɹ∀')){
+            
             }}
 
         
