@@ -1,9 +1,9 @@
 # The Purpose Of Ink:
 
-## Cut connection
-## Get rid of block screen
+ Cut connection
+ Get rid of block screen
 
-## Ink won't:
+# Ink won't:
 Find you a dollar
 Get you a raise
 
